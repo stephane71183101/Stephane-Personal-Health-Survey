@@ -10,7 +10,7 @@
 </head>
 
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #f1f1f1">
     <div class="container-fluid">
         <a class="navbar-brand text-success" href="#">Logo</a>
         <div class="nav justify-content-end" id="navbarNav">
@@ -26,13 +26,14 @@
 <body>
 
     <div class="container-fluid text-center text-success bg-info">
-        <div  class="container col-10">
+        <div  class="container-sm">
+        <p>Eine ausgewogene, gesunde Ernährung sowie tägliche Körperbewegung sind für Gesundheit und Wohlbefinden im jeden Alter von grosser Bedeutung.</p>
         <p>Mit der folgenden Umfrage prüfen wir deine Ernährungsgewohnheiten und Bewegungshäufigkeiten und werden später auf dieser Basis dich besser begleiten können. Besten Dank für Deine Teilnahme!</p>
         </div>    
     </div>
     
     <div class="container-fluid text-center text-success bg-info">
-        <div  class="container col-10">
+        <div  class="container-sm">
         <form>
         <label for="customRange1" class="form-label">Wie gesund bist du körperlich?</label>
         <input type="range" class="form-range" id="customRange1">
@@ -41,7 +42,7 @@
     </div>
 
 <footer>
-    <div class="text-center text-white bg-warning">
+    <div class="text-center text-white" style="background-color: #f1f1f1;">
     <!-- Grid container -->
     <div class="container pt-4">
         <!-- Section: Social media -->

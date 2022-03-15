@@ -27,6 +27,7 @@
 
     <div class="container-fluid text-center text-success bg-info">
         <div  class="container col-10">
+        <p>Eine ausgewogene, gesunde Ernährung sowie tägliche Körperbewegung sind für Gesundheit und Wohlbefinden im jeden Alter von grosser Bedeutung.</p>
         <p>Mit der folgenden Umfrage prüfen wir deine Ernährungsgewohnheiten und Bewegungshäufigkeiten und werden später auf dieser Basis dich besser begleiten können. Besten Dank für Deine Teilnahme!</p>
         </div>    
     </div>
