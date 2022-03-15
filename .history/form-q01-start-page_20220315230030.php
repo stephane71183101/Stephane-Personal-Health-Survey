@@ -12,7 +12,7 @@
 <header>
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#d63384">
     <div class="container-fluid">
-        <a class="navbar-brand text-white" href="#">F&W Umfrage</a>
+        <a class="navbar-brand text-white" href="#">Logo</a>
         <div class="nav justify-content-end" id="navbarNav">
             <form class="d-flexme-2">
                 <button class="btn btn-outline-dark" type="submit">Vorige Seite</button>
@@ -24,13 +24,13 @@
 </header>
 
 <body class="bg-info">
-    <div class="container-fluid pt-5 pb-3 text-center text-white">
+    <div class="container-fluid pt-5 pb-3 text-center text-white bg-info">
         <div  class="container col-10">
         <p>Mit der folgenden Umfrage prüfen wir deine Ernährungsgewohnheiten und Bewegungshäufigkeiten und werden später auf dieser Basis dich besser begleiten können. Besten Dank für Deine Teilnahme!</p>
         </div>    
     </div>
     
-    <div class="container-fluid pb-5 text-center text-white">
+    <div class="container-fluid pb-5 text-center text-white bg-info">
         <div  class="container col-10">
         <form>
         <label for="customRange1" class="form-label mb-4">Wie gesund bist du körperlich?</label>

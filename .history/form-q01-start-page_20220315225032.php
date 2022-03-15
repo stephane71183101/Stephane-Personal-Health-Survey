@@ -10,30 +10,30 @@
 </head>
 
 <header>
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#d63384">
+    <nav class="navbar navbar-expand-lg navbar-light bg-warning">
     <div class="container-fluid">
-        <a class="navbar-brand text-white" href="#">F&W Umfrage</a>
+        <a class="navbar-brand text-white" href="#">Logo</a>
         <div class="nav justify-content-end" id="navbarNav">
             <form class="d-flexme-2">
-                <button class="btn btn-outline-dark" type="submit">Vorige Seite</button>
-                <button class="btn btn-outline-dark" type="submit">Nächste Seite</button>
+                <button class="btn btn-outline-success" type="submit">Vorige Seite</button>
+                <button class="btn btn-outline-success" type="submit">Nächste Seite</button>
             </form>
         </div>
     </div>
     </nav>
 </header>
 
-<body class="bg-info">
-    <div class="container-fluid pt-5 pb-3 text-center text-white">
+<body>
+    <div class="container-fluid pt-5 pb-3 text-center text-white bg-info">
         <div  class="container col-10">
         <p>Mit der folgenden Umfrage prüfen wir deine Ernährungsgewohnheiten und Bewegungshäufigkeiten und werden später auf dieser Basis dich besser begleiten können. Besten Dank für Deine Teilnahme!</p>
         </div>    
     </div>
     
-    <div class="container-fluid pb-5 text-center text-white">
+    <div class="container-fluid pb-5 text-center text-white bg-info">
         <div  class="container col-10">
         <form>
-        <label for="customRange1" class="form-label mb-4">Wie gesund bist du körperlich?</label>
+        <label for="customRange1" class="form-label pb-2">Wie gesund bist du körperlich?</label>
         <div class="container-fluid px-0 mb-2 small">
         <div class="row g-0">
         <div class="col text-start">0-20%</div>
@@ -43,13 +43,13 @@
         <div class="col text-end">80-100%</div>
         </div>
         </div> 
-        <input type="range" class="form-range mb-5" min="0" max="4" step="1" id="my-range">
+        <input type="range" class="form-range mb-4" min="0" max="4" step="1" id="my-range">
         <input type="reset" class="border-0 bg-white rounded text-info" value="Zurücksetzen">
         </form>
         </div>    
     </div>
 
-<footer class="fixed-bottom">
+<footer>
     <div class="text-center text-white bg-warning">
     <!-- Grid container -->
     <div class="container pt-4">
