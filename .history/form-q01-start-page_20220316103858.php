@@ -2,7 +2,7 @@
 
 <body class="bg-info">
 
-<?php include 'includes/header.php'?>
+<?php include 'includes/head.php'?>
 
 <!--
     <header>

@@ -2,9 +2,6 @@
 
 <body class="bg-info">
 
-<?php include 'includes/header.php'?>
-
-<!--
     <header>
         <nav class="navbar navbar-expand-lg navbar-light" style="background-color:#d63384">
         <div class="container-fluid">
@@ -18,7 +15,7 @@
         </div>
         </nav>
     </header>
--->
+    
     <div class="container-fluid pt-5 pb-3 text-center text-white">
         <div  class="container col-10">
         <p>Mit der folgenden Umfrage prüfen wir deine Ernährungsgewohnheiten und Bewegungshäufigkeiten und werden später auf dieser Basis dich besser begleiten können. Besten Dank für Deine Teilnahme!</p>

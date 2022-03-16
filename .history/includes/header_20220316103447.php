@@ -5,16 +5,27 @@
         <a class="navbar-brand text-white" href="#">F&W Umfrage</a>
     <div class="nav justify-content-end" id="navbarNav">
     <form class="d-flexme-2">
-    <!--
     <button class="btn btn-outline-dark" type="submit">Vorige Seite</button>
     <button class="btn btn-outline-dark" type="submit">Nächste Seite</button>
-    -->
+
     <?php
-    
+    /*
     include 'includes/nav-button-start.php'
- 
+    */
     ?>
 
     </form>
 </nav>
 </header>
+
+
+<?php
+$menuItems = array (
+  array("/libelingstier.php", "Formular"),
+  array("/lieblingstierResult.php", "Ergebnis"),
+  array("/lieblingsfarbe.php", "Kübel")
+  );
+  foreach ($menuItems as $item) {
+    echo "<a href='$item[0]'>$item[1]</a>&nbsp;&nbsp;&nbsp;";
+  }
+?>
