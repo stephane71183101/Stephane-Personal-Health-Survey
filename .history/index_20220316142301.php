@@ -10,7 +10,7 @@
     </div>
         <div class="container-fluid pb-5 text-center text-white">
             <div  class="container col-10">
-            <form onsubmit="return validateQuestion('range-slider');">
+            <form>
             <label for="healthRange" class="form-label mb-4">Wie gesund bist du körperlich?</label>
             <div class="container-fluid px-0 mb-2 small">
             <div class="row g-0">
@@ -19,12 +19,9 @@
             <div class="col text-end">Gesund</div>
             </div>
             </div> 
-            <input type="range" class="form-range mb-5" min="0" max="5" step="0.5" id="range-slider" onchange="sliderChange();">
-            <input type="hidden" name="pageID" value="index">
-            <input type="hiddden" id="range-slider-changed" name="range-slider-changed">
-            <!-- <input type="reset" class="border-0 bg-white rounded text-info" value="Zurücksetzen"> -->
+            <input type="range" class="form-range mb-5" min="0" max="4" step="1" id="range-slider">
+            <input type="reset" class="border-0 bg-white rounded text-info" value="Zurücksetzen">
             <p id="validation-warning" class="warning"></p>
-            <button type="submit" class="btn btn-outline-primary">Nächste Frage</button>
             </form>
         </div>    
     </div>

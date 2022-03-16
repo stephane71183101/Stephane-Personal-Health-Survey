@@ -10,7 +10,7 @@
     </div>
         <div class="container-fluid pb-5 text-center text-white">
             <div  class="container col-10">
-            <form onsubmit="return validateQuestion('range-slider');">
+            <form>
             <label for="healthRange" class="form-label mb-4">Wie gesund bist du körperlich?</label>
             <div class="container-fluid px-0 mb-2 small">
             <div class="row g-0">
