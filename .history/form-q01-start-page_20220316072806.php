@@ -52,26 +52,26 @@
 <footer class="fixed-bottom">
     <div class="text-center text-white bg-warning">
     <!-- Grid container -->
-    <div class="container pt-0">
+    <div class="container pt-4">
         <!-- Section: Social media -->
-        <section class="mb-0">
+        <section class="mb-4">
         <!-- Facebook -->
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/facebook.png" alt="Facebook-Logo" width="20px"></a>
 
         <!-- Twitter -->
-        <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/twitter.png" alt="Twitter-Logo" width="20px"></a>
+        <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/facebook.png" alt="Facebook-Logo" width="20px"></a>
 
         <!-- Google -->
-        <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/google.png" alt="Google-Logo" width="20px"></a>
+        <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/facebook.png" alt="Facebook-Logo" width="20px"></a>
 
         <!-- Instagram -->
-        <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/instagram.png" alt="Instagram-Logo" width="20px"></a>
+        <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/facebook.png" alt="Facebook-Logo" width="20px"></a>
 
         <!-- Linkedin -->
-        <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/linkedin.png" alt="LinkedIn-Logo" width="20px"></a>
+        <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/facebook.png" alt="Facebook-Logo" width="20px"></a>
 
-        <!-- GitHub -->
-            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/github.png" alt="GitHub-Logo" width="20px"></a>
+        <!-- Github -->
+            <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/facebook.png" alt="Facebook-Logo" width="20px"></a>
         </section>
         <!-- Section: Social media -->
     </div>

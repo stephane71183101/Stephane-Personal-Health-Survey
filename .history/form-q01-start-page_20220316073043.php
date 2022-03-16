@@ -52,9 +52,9 @@
 <footer class="fixed-bottom">
     <div class="text-center text-white bg-warning">
     <!-- Grid container -->
-    <div class="container pt-0">
+    <div class="container pt-2">
         <!-- Section: Social media -->
-        <section class="mb-0">
+        <section class="mb-2">
         <!-- Facebook -->
             <a class="btn btn-link btn-floating btn-lg text-dark m-1" href="#" role="button" data-mdb-ripple-color="dark"><img src="images/facebook.png" alt="Facebook-Logo" width="20px"></a>
 
