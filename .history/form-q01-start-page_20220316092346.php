@@ -1,5 +1,6 @@
 <?php include 'includes/head.php'?>
 
+
 <body class="bg-info">
 
     <header>
