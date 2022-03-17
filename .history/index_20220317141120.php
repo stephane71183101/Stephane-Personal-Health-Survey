@@ -3,7 +3,7 @@
 <?php include 'includes/header.php'?>
 
 <!-- Content -->
-    <div class="container-fluid pt-5 pb-3 text-center text-white" id="containerIntro">
+    <div class="container-fluid pt-5 pb-3 text-center text-white">
         <div  class="container col-10">
         <p>Mit der folgenden Umfrage prüfen wir deine Ernährungsgewohnheiten und Bewegungshäufigkeiten und werden später auf dieser Basis dich besser begleiten können. Besten Dank für Deine Teilnahme!</p>
     </div>    

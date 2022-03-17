@@ -1,12 +1,12 @@
-// ----- Code vom 17.03.2022
+// Code vom 17.03.2022
 
 function validateNumber () {
-    // <input type="number" id="number-text">
-    let value = document.getElementById("text-number").value;
+    // >input type="number" id="number-text"
+    let value = getElementById("text-number").value;
 
-    // Wenn kein Wert eingegeben wurde, dann soll der Submit gestopp werden.
-    if (value == "") { // if (!value) {} wäre dasselbe - kürzer.
-        setWarning("Bitte geben Sie eine Zahl an.");
+    // Wenn keine Wert eingegeben wurde, dann soll der Submit gestopp werden.
+    if (value == "") { // if (!vaule) {} wäre dasselbe - kürzer.
+        setWarning("BitteGeben Sie eine Zahl an.");
         
         // Stopp: Es wurde kein Wert eingegeben.
         return false;
@@ -15,9 +15,7 @@ function validateNumber () {
     // Alles ok: gar ncihts zurückgeben oder return true;
 }
 
-function validateRadio(radioName) {
 
-}
 
 
 
@@ -31,8 +29,7 @@ function setWarning(text) {
 
 
 
-// ----- Code vom 16.03.2022
-
+// Code vom 16.03.2022
 /* 
 function validateQuestionMinimal() {
 
