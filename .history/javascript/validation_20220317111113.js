@@ -4,15 +4,14 @@ function validateNumber () {
     let getElementById("text-number").value
 }
 
-
-
-
-
-
-
 function setWarning(text) {
     let warningElement = document.getElementById("validation.warning");
     warningElement.innerText = text;
+
+
+
+
+
 
 
 

@@ -10,9 +10,6 @@ function validateNumber () {
 
 
 
-function setWarning(text) {
-    let warningElement = document.getElementById("validation.warning");
-    warningElement.innerText = text;
 
 
 
