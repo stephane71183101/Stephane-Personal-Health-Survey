@@ -1,1 +1,0 @@
-<button class="btn btn-outline-dark" type="submit">Anfangen</button>
