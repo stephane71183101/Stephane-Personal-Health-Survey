@@ -1,13 +1,12 @@
-# Stephane-Book-a-Course
-Book a Course (Form HTML)
+# Stephane-Personal-Health-Survey
+Personal Health Survey (Form PHP)
 
 ## Table of Contents
 1. [About this file]
 2. [Starting point of the problem]
 3. [Difficulties with validation of non-text fields]
 4. [Solution approach]
-5. [Continue...]
-6. [Contact]
+5. [Contact]
 
 ## About this file
 
@@ -15,28 +14,23 @@ This file describes difficulties and approaches to solutions in the course of th
 
 For more information about the project, please check the readme.md file.
 
-Prôject delivery date: 03.03.2022, 15:30
+Project delivery date: 22.03.2022, 12:30
 
 ## Starting point of the problem
 
-Validation was first created for text fields using functions, with arrays among others.
+Setting of the data session and data evaluation with PHP and JavaScript.
 
-## Difficulties with validation of non-text fields
+## Difficulties with the setting of the data session and data evaluation
 
-The later incorporation of validation of other fields (select, radio) became difficult.
+The folow-up of the construction (to collect and evaluate date) became difficult.
 
 ## Solution approach
 
-The order in the process remains unresolved until now (03.03.2022, 15:30). The form is still being developed after the project delivery until a solution is found.
+The problem remains unresolved until the delivery (22.03.2022, 12:30). I need apparently to improve my ability with PHP and JavaScript so that I can resolve this problem.
 
 Solution approach as follows:
-> Go back to a simple validation process
-> Include validation steps for other fields (select, radio)
-> Possibly consider again a similar solution approach as at the beginning
-
-## Continue...
-
-The unresolved parts remain in the code as comments. And as described above the project will be developed further after delivery.
+> Resume the theory 
+> Try to resolve an easier problem without by myself
 
 ## Contact
 

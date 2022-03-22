@@ -2,8 +2,9 @@
 
 <body class="bg-info">
 <?php include 'includes/header.php'?>
-<?php include 'includes/data-collector.php'; ?>
-
+<?php
+// include 'includes/data-collector.php'; 
+?>
 
 <!-- Content -->
 <div class="pt-5 pb-3" id="containerIntro">

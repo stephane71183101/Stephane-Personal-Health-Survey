@@ -2,7 +2,9 @@
 
 <body class="bg-info">
 <?php include 'includes/header.php' ?>
-<?php include 'includes/data-collector.php'; ?>
+<?php 
+// include 'includes/data-collector.php'; 
+?>
 <?php include 'includes/evaluate-user-data.php' ?>
 
 <!-- Content -->
@@ -12,10 +14,12 @@
     <p>Feedback<p>    
     <p>Danke für Deine Teilnahme!<p> 
     </div>
+    Test line 1 <?php echo $_POST["lastPageID"]; ?><br>
+    Test line 2 <?php echo $_POST["single-choice-0"]; ?>
 </div>
 
 <?php
-    echo "<p class='final-feedback'>" . "You are of excellent health!" . "<p>";
+// echo "<p class='final-feedback'>" . "You are of excellent health!" . "<p>";
 ?>
 
 <!-- Content -->
