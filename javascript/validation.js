@@ -19,20 +19,6 @@ function validateCheckboxes() {
     document.getElementById("checkboxValues").value = array.toString();
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function validateQuestionMinimal() {
     // Die 'id' des input elements muss hier exakt eingetragen werden.
     // Damit ist diese Funktion nur in bestimmten Fällen wieder verwendbar.
@@ -107,7 +93,7 @@ function setWarning(text) {
 }
 
 
-// ----- Code vom 17.03.2022
+// -------------------------------------- Code vom 17.03.2022
 /*
 function validateNumber () {
     // <input type="number" id="number-text">
@@ -132,11 +118,7 @@ function setWarning(text) {
     let warningElement = document.getElementById("validation.warning");
     warningElement.innerText = text;
 
-
-
-
-
-// ----- Code vom 16.03.2022
+// -------------------------------------- Code vom 16.03.2022
 
 /* 
 function validateQuestionMinimal() {
@@ -161,7 +143,6 @@ function sliderHasChanged() {
     else return false;
 }
 
-
 function validateQuestion(inputID) {
     // Muss für verschiedene Type von Input-Feldern funktionieren.
     let inputElement = document.getElementById(inputID);
@@ -183,18 +164,14 @@ function validateQuestion(inputID) {
         setWarning("Bitte gib einen Wert ein.");
         return false;
     }
-}
-    
+} 
     return false;
 }
 
-
-
-// Tools ----------------------------------
+// TOOLS -------------------------------------------------------------------
 
 function setWarning(text) {
     let warningElement = document.getElementById("validation.warning");
     warningElement.innerText = text;
 }
-
 */

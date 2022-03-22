@@ -14,8 +14,6 @@
     <p>Feedback<p>    
     <p>Danke für Deine Teilnahme!<p> 
     </div>
-    Test line 1 <?php echo $_POST["lastPageID"]; ?><br>
-    Test line 2 <?php echo $_POST["single-choice-0"]; ?>
 </div>
 
 <?php

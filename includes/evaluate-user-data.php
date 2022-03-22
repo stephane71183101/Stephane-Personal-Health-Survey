@@ -48,8 +48,7 @@ if (isset($_SESSION['index'])) { // Prüfe mit isset() den Schlüssel 'index' in
     }
 }
 
-// question-02----------------------------------------------------------------
-
+// question-02 ----------------------------------------------------------------
 
 if (isset($_SESSION['question-02'])) { // Prüfe mit isset() den Schlüssel 'question-02' in $_SESSION.
     // Hole ich POST-Werte aus der $_SESSION.
@@ -77,7 +76,7 @@ if (isset($_SESSION['question-02'])) { // Prüfe mit isset() den Schlüssel 'que
     }
 }
 
-// question-03----------------------------------------------------------------
+// question-03 ----------------------------------------------------------------
 
 if (isset($_SESSION['question-03'])) {
     // Hole dei POST-Werte aus der $_SESSION.
