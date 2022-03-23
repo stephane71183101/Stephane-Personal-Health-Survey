@@ -4,7 +4,10 @@ session_destroy();
 include 'includes/head.php'?>
 
 <body class="bg-info">
-<?php include 'includes/header.php'?>
+<?php 
+include 'includes/header.php';
+// include 'includes/error-types.php';
+?>
 
 <!-- Content -->
     <div class="container-fluid pt-5 pb-3 text-center text-white" id="containerIntro">
